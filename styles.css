@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    background-color: brown;
+  }
+
+   h5 {
+    color: greenyellow;
+    text-align: right;
+    background-color: green;  
+   }
+   h2 {
+    color: green;
+    text-align: center;
+   }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
+  .list {
+      font-style: oblique;
+      font-size: larger;
+      color: green;
+  }
